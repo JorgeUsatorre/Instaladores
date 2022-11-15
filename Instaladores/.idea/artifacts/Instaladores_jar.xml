@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Instaladores:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Instaladores_jar</output-path>
+    <root id="archive" name="Instaladores.jar">
+      <element id="module-output" name="Instaladores" />
+    </root>
+  </artifact>
+</component>
